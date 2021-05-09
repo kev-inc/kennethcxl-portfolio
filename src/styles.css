@@ -1,0 +1,15 @@
+@import "bulma/css/bulma.min.css";
+
+h3 {
+  text-align: center;
+  font-weight: bold;
+}
+.tile > figure.image {
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+figure.image {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
